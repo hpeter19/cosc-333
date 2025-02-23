@@ -1,2 +1,3 @@
 # cosc-333
-program to calculate factorial using C++
+PETER NJOGU WANGECI
+EB3/61565/22
