@@ -5,6 +5,10 @@ Enter the number of terms in the Fibonacci sequence: 12
 Process returned 0   execution time : 2.420 s
 
 
+factorial
+Please enter a positive integer: 12
+
+Process returned 0   execution time : 3.335 s
 
 
 
