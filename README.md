@@ -9,6 +9,8 @@ factorial
 Please enter a positive integer: 12
 
 Process returned 0   execution time : 3.335 s
+##SECOND TRIAL
+looks like i can do these!
 
 
 
